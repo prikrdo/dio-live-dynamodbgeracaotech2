@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Black Eyed Peas"},
+                  "SongTitle": {"S": "Dont Phunk With My Heart"},
+                  "AlbumTitle": {"S": "Monkey Business"},
+                  "SongYear": {"S": "2005"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Black Eyed Peas"},
+                  "SongTitle": {"S": "Dont Lie"},
+                  "AlbumTitle": {"S": "Monkey Business"},
+                  "SongYear": {"S": "2005"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Black Eyed Peas"},
+                  "SongTitle": {"S": "Pump It"},
+                  "AlbumTitle": {"S": "Monkey Business"},
+                  "SongYear": {"S": "2006"}
                 }
             }
         }
